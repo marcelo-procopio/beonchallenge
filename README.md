@@ -64,4 +64,5 @@ This project contains automated tests for simulating search actions on Google us
 
 ### Running Tests:
     to execute the tests, run:
-    ```npx wdio run wdio.conf.js
+    ```bash
+    npx wdio run wdio.conf.js
