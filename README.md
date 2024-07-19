@@ -47,16 +47,19 @@ This project contains automated tests for simulating search actions on Google us
 
 
 2. Install dependencies:
-    ```npm install
+    ```bash
+    npm install
 
 3. Start the Appium server:
 
     In a new terminal window,start the Appium server with:
-    ```appium
+    ```bash
+    appium
 
 4. Ensure you have the ChromeDriver installed:
     Install the ChromeDriver using:
-    ```npm install chromedriver --save-dev
+    ```bash 
+    npm install chromedriver --save-dev
 
 
 ### Running Tests:
